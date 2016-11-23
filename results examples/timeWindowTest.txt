@@ -1,0 +1,11 @@
+# of detectors testing...!
+
+Average Distance: 1.0 # of observations: 13
+Average Distance: 2.0 # of observations: 35
+Average Distance: 1.0 # of observations: 39
+Average Distance: 2.5 # of observations: 47
+Average Distance: 1.5 # of observations: 68
+Average Distance: 4.0 # of observations: 42
+Average Distance: 1.0 # of observations: 115
+Average Distance: 1.0 # of observations: 104
+Average Distance: 1.0 # of observations: 151
