@@ -1,8 +1,0 @@
-# of culprits testing...!
-
-
-Average Distance: 3.0 # of observations: 41
-Average Distance: 2.5 # of observations: 43
-Average Distance: 2.6666666666666665 # of observations: 50
-Average Distance: 2.0 # of observations: 47
-Average Distance: 2.0 # of observations: 53
